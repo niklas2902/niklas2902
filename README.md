@@ -19,9 +19,15 @@
 ---
 
 ## 🛠️ Languages and Tools
+I work with a variety of tools and languages. Some of the key ones include:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,C++" />
+  <img src="https://skillicons.dev/icons?i=python,c++,csharp,git,github,godot,unity" />
 </p>
+
+- **Languages**: Python, C++, C#
+- **Game Engines**: Godot, Unity
+- **Tools**: Git, GitHub, Visual Studio, VS Code
 
 ---
 
