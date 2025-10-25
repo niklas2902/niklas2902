@@ -18,19 +18,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niklas2902&theme=nord&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niklas2902&theme=nord&hide_border=true&area=true&bg_color=00000000" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niklas2902&theme=nord_dark" alt="Profile Details"/>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niklas2902&theme=nord_dark&utcOffset=1" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niklas2902&theme=nord_dark" alt="Repos per Language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niklas2902&theme=nord_dark" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niklas2902&theme=nord_dark" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niklas2902&show_icons=true&theme=nord&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=niklas2902&theme=nord&hide_border=true&background=00000000&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0" alt="GitHub Streak"/>
 </div>
