@@ -24,6 +24,5 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niklas2902&show_icons=true&theme=nord&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=niklas2902&theme=nord&hide_border=true&background=00000000&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0" alt="GitHub Streak"/>
 </div>
